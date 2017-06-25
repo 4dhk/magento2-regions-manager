@@ -20,6 +20,7 @@ Install Regions Manager for Magento2
 #####Using Composer
 
 ```
+composer config repositories.magento2-regions-manager vcs https://github.com/4dhk/magento2-regions-manager.git
 composer require php-cuong/magento2-regions-manager
 ```
 
@@ -37,3 +38,7 @@ Log into your Magento admin, goto Customers -> Manage Regions in Addresses
 ####Video the details how to install this extension
 
 https://www.youtube.com/watch?v=krhVy0-OKhY
+
+
+####TO DO
+The region should support different storeview.
